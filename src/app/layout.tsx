@@ -35,7 +35,7 @@ export default function RootLayout({
         <header>
           <p className="p-8 bg-sky-300 font-[700] text-center">
             This is a header
-          </p>
+          </p> 
         </header>
         {children}
         <footer>
