@@ -7,6 +7,10 @@ export default function OrderProduct() {
   const handleClick = () => {
     console.log("placing your order");
     router.push("/");
+    // router.back();
+    // router.forward();
+    // router.refresh();
+    // router.replace();
   };
   return (
     <>
